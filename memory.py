@@ -12,6 +12,3 @@ class Memory:
         return list(self.memory)
     def clear_memory(self):
         self.memory.clear()
-
-
-    
